@@ -1,0 +1,162 @@
+style.css 
+/* Tag Classifications */
+ h1{
+     font-size: 15px;
+}
+ body{
+     background-color: lightgrey;
+}
+ .center{
+     display: flex;
+     justify-content: space-evenly;
+     align-self: ;
+}
+ .img-border{
+     border-radius: 50%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+/* Class Classifications */
+ .score-margin{
+     margin-bottom: 5px;
+}
+ .skillbar{
+     width: 100%;
+     height: 15px;
+     background-color: lightgrey;
+}
+ .HTML-score{
+     width: 40%;
+     height: 15px;
+     background-color: darkblue;
+}
+ .css-score{
+     width: 40%;
+     height: 15px;
+     background-color: darkblue;
+}
+ .word-score{
+     width: 100%;
+     height: 15px;
+     background-color: darkblue;
+}
+ .excel-score{
+     width: 85%;
+     height: 15px;
+     background-color: darkblue;
+}
+ .powerpoint-score{
+     width: 100%;
+     height: 15px;
+     background-color: darkblue;
+}
+ .spss-score{
+     width: 70%;
+     height: 15px;
+     background-color: darkblue;
+}
+ .eviews-score{
+     width: 95%;
+     height: 15px;
+     background-color: darkblue;
+}
+ .minitab-score{
+     width: 65%;
+     height: 15px;
+     background-color: darkblue;
+}
+ .stata-score{
+     width: 50%;
+     height: 15px;
+     background-color: darkblue;
+}
+ .teamwork-score{
+     width: 90%;
+     height: 15px;
+     background-color: darkgreen;
+}
+ .communication-score{
+     width: 90%;
+     height: 15px;
+     background-color: darkgreen;
+}
+ .problem-solving-score{
+     width: 80%;
+     height: 15px;
+     background-color: darkgreen;
+}
+ .time-management-score{
+     width: 75%;
+     height: 15px;
+     background-color: darkgreen;
+}
+ .organisation-score{
+     width: 90%;
+     height: 15px;
+     background-color: darkgreen;
+}
+ .padding{
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     margin: 0;
+     border: 1px solid rgba(0,0,0,.125);
+     border-radius: 0.25rem;
+     margin-top: 10px;
+     margin-bottom: 5px;
+}
+ .padding-noborder{
+     padding-left: 0px;
+     padding-right: 10px;
+     padding-top: 0px;
+     padding-bottom: 0px;
+     margin: 0;
+}
+ .banner{
+     background-color: lightslategray;
+     padding-left: 10px;
+}
+ .overflow{
+     overflow-wrap: break-word;
+}
+ .margin-contacts{
+     margin-top: 10px;
+}
+ .banner-font{
+     color: white;
+     font-size: 40px;
+     padding-top: 5px;
+}
+ .header-font{
+     color: lightslategray;
+     font-size: 25px;
+     font-style: Bold;
+}
+ .divpaddingleft{
+     padding-left: 10px;
+     padding-right: 5px;
+}
+ .divpaddingright{
+     padding-left: 5px;
+     padding-right: 10px;
+}
+ .about-me-background{
+     background-color: whitesmoke;
+}
+ .me{
+     background-color: whitesmoke;
+}
+ .about{
+     background-color: whitesmoke;
+}
+ .contact{
+     background-color: whitesmoke;
+}
+ .remove-border{
+     border: 0;
+}
+ .education-padding{
+    padding-left: 5px;
+ }
